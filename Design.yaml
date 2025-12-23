@@ -1,0 +1,39 @@
+Design an app  with requrements in 益亿健康 doc attached.:
+Frontend: 
+- web browser 
+- android 
+- ios 
+- harmony os
+- wechat micro app
+Server:
+- backend server for user management, data storage, and API handling
+- which will connect to external AI medical data analysis server
+- design in a way to be scalable and secure
+Technologies to be used:
+Backend:
+- node.js
+- MongoDB or mySQL (which ever is more suitable for the app)
+- API design using RESTful or GraphQL
+- JWT for authentication and authorization
+- Docker for containerization (optional)
+Frongtend:
+- react.js  
+- react native
+- redux-toolkit
+- Bootstrap UI framework
+Additional Requirements:
+- implement CI/CD pipeline for automated testing and deployment
+- write unit tests and integration tests for both frontend and backend
+- create documentation for API and application usage
+- set up monitoring and logging for server performance and errors
+- ensure compliance with data privacy regulations (e.g., HIPAA, GDPR)
+- multilingual support for the app Chinesse, English for launch and more languages in future
+- payment gateway integration for Chinese market later external market
+- medical data encryption and secure transmission
+- media and information management, display, distribution and download
+
+Additional Tasks:
+- set up version control using Git and host the repository on GitHub or GitLab
+- create project structure for both frontend and backend
+- generate all package.json
+- keep application optimized and best practices
